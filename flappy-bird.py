@@ -7,6 +7,7 @@ pygame.init()
 clock = pygame.time.Clock()
 fps = 60
 
+# constants
 IMG_NUMBER = 3
 FONT = pygame.font.SysFont("Bauhaus 93", 60)
 WHITE = (255, 255, 255)
